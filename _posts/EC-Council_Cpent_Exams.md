@@ -3,7 +3,7 @@ title: "EC-Council's Free CPENT Giveaway? Here's What Hackers4Humanity Was Reall
 date: 2026-08-22 02:00:00 +0530
 categories: [Research]
 tags: [EC-Council, CPENT, Hackers4Humanity, Penetration Testing, Ethical Hacking, Certification]
-description: "description: "EC-Council offered selected cybersecurity professionals a sponsored CPENT exam through Hackers4Humanity. Here's what the initiative was, how it worked, who was eligible, and why it was more than just a free CPENT giveaway."
+description: "EC-Council offered selected cybersecurity professionals a sponsored CPENT exam through Hackers4Humanity. Here's what the initiative was, how it worked, who was eligible, and why it was more than just a free CPENT giveaway."
 ---
 
 A few months ago, something interesting started happening in the cybersecurity community.
