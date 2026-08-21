@@ -1,13 +1,13 @@
 ---
-title: Welcome to OdayUnit
+title: Welcome to 0dayUnit
 date: 2026-08-22 22:00:00 +0530
 categories: [Cybersecurity]
 tags: [cybersecurity, pentesting, redteam]
 ---
 
-# Welcome to OdayUnit
+# Welcome to 0dayUnit
 
-OdayUnit is a personal cybersecurity space focused on offensive security, penetration testing, red team operations, CTFs, and technical research.
+0dayUnit is a personal cybersecurity space focused on offensive security, penetration testing, red team operations, CTFs, and technical research.
 
 Here, I will share:
 
