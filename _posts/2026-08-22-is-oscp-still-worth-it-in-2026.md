@@ -654,7 +654,7 @@ Maybe your exam is getting closer and suddenly everything you learned feels like
 
 We've all had that feeling. 😅
 
-Join the **0dayUnit Telegram community** for cybersecurity exam discussions, preparation guidance, useful resources, and support from other learners.
+Join the **[0dayUnit Telegram community](https://t.me/zerodayunit)** for cybersecurity exam discussions, preparation guidance, useful resources, and support from other learners.
 
 👉 **Join the 0dayUnit Exam Support Community**
 
