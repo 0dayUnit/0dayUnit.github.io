@@ -1,6 +1,6 @@
 ---
 title: "CPTS vs OSCP: Which Exam Is Actually Harder?"
-date: 2026-08-25 18:00:00 +0530
+date: 2026-08-28 18:00:00 +0530
 categories: [Certifications, Exam Guides, Comparisons, CPTS, OSCP, offsec, hackthebox]
 tags: [CPTS, OSCP, OSCP+, Hack The Box, OffSec, Penetration Testing, Cybersecurity Certifications]
 description: "CPTS vs OSCP: which exam is harder? A practical comparison of learning material, labs, enumeration, exam methodology, time pressure, reporting, and overall difficulty."
